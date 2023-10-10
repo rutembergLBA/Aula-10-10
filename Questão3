@@ -1,0 +1,9 @@
+public class Questão3{
+    public static void main() {
+        int contador = 1;
+        while(contador <= 50){
+            System.out.println(contador);
+            contador = contador +1;
+        }
+    }
+}
